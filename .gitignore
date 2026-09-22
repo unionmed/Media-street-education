@@ -2,3 +2,10 @@
 Thumbs.db
 _site/
 node_modules/
+.next/
+out/
+*.tsbuildinfo
+.env*
+!.env.example
+playwright-report/
+test-results/

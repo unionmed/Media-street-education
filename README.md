@@ -1,56 +1,67 @@
-# Merit Way — a Media Street initiative
+# Merit Way
 
-Static English/Arabic website for professional learning, higher education enquiries, programme promotion and media production. No framework, third-party scripts, analytics, or build dependencies are required.
+A bilingual English/Arabic learning and education website for Media Street, built with Next.js App Router, TypeScript, React, Tailwind CSS 4 and pnpm. It exports plain HTML, CSS and JavaScript for GitHub Pages.
 
-**Live website:** https://unionmed.github.io/Media-street-education/
+## Local development
 
-## Included pages
-
-- `index.html` / `arabic.html` — home page and team introduction.
-- `courses.html` / `arabic-courses.html` — 15 selections with search and subject/platform/level/goal filters.
-- `programme-*.html` / `arabic-programme-*.html` — 15 paired programme detail pages with provider links and original practice suggestions.
-- `guides.html` / `arabic-guides.html` — eight original editorial guides, three on the index and five with paired `guide-*.html` detail pages.
-- `legal.html` / `arabic-legal.html` — affiliate disclosure, editorial position and privacy information.
-- `postgraduate.html` / `arabic-postgraduate.html` — higher education enquiries.
-- `services.html` / `arabic-services.html` — programme promotion and media services.
-- `404.html` — bilingual recovery links for missing pages, including nested URLs.
-
-The current programme links are direct, non-affiliate provider links. Replace them only after an affiliate/referral agreement is approved and add the partner disclosure beside each changed link.
-
-## Preview and checks
-
-Requires Node.js 22 or newer:
+Use the Node version in `.node-version` and the pnpm version in `package.json`.
 
 ```sh
-node scripts/validate.mjs
-node scripts/build.mjs
-node scripts/serve.mjs
+pnpm install --frozen-lockfile
+pnpm dev
 ```
 
-Open http://localhost:4173/Media-street-education/. The preview uses the same project path as GitHub Pages. Stop it with Ctrl+C. Validation covers local files, anchors, bilingual links, page metadata, image alternatives and document structure.
-
-## Deployment
-
-GitHub **Settings → Pages → Source** must be **GitHub Actions**. The repository is public for free Pages hosting.
-
-`.github/workflows/pages.yml` validates pull requests and pushes to `main`. Successful pushes build an allowlisted `_site/` artifact and deploy it to the `github-pages` environment. Development files and Git data are excluded from the website artifact. Deployment can also be started from Actions using **Run workflow**.
-
-## Editing
-
-- Edit English and Arabic counterparts together, preserving language switches and RTL direction.
-- Use relative local URLs so the site works under the GitHub project path.
-- Higher education remains an enquiry pathway in development, not a claim of university partnerships or admissions services.
-- Email links open the visitor's email app; the website does not submit or store enquiries.
-- Update `sitemap.xml` and canonical/alternate/Open Graph URLs if the hostname or repository path changes.
-- Layout is in `styles.css` and `overrides.css`. Images and icons are local; there are no external font dependencies.
-
-Programme content lives in `scripts/programmes.mjs`; the five additional guides live in `scripts/guides.mjs`. After editing them, regenerate the committed HTML and sitemap:
+Open `/en/` or `/ar/` on the development server. The root entry and legacy HTML redirects are generated for the production export.
 
 ```sh
-node scripts/generate-programmes.mjs
-node scripts/generate-guides.mjs
-node scripts/sitemap.mjs
-node scripts/validate.mjs
+pnpm check          # lint, types and content/configuration checks
+pnpm format:check
+pnpm build         # Next.js export plus metadata and compatibility routes
+pnpm test:export   # every page, local link, asset and fragment
+pnpm preview       # serve the export on http://127.0.0.1:4173
 ```
 
-Programme summaries were checked against the linked official provider listings on 21 September 2026. Editorial starting levels, goals and practice exercises are Merit Way suggestions. Prices and time estimates are left to the provider’s current page.
+`pnpm test:e2e` runs Chromium desktop/mobile interaction, no-JavaScript and automated accessibility checks. Install its browser once with `pnpm exec playwright install chromium`.
+
+## Project structure
+
+| Directory          | Purpose                                                     |
+| ------------------ | ----------------------------------------------------------- |
+| `src/app/[locale]` | Statically generated English and Arabic routes              |
+| `src/components`   | Shared page layouts, navigation and catalogue               |
+| `src/content`      | Bilingual programme and guide data                          |
+| `src/lib`          | Types, locale helpers, hosting configuration and metadata   |
+| `public/images`    | Team photography and favicon                                |
+| `scripts`          | Static export preparation, validation and preview           |
+| `tests`            | Content/configuration and browser regression checks         |
+| `docs`             | Migration plan, dependency decisions and verification notes |
+
+The library contains 15 programmes and eight full guides in both languages. Team order, learning, higher education and media services are preserved. Programme cards and article content are server rendered; only navigation and catalogue filtering need client state.
+
+## Hosting configuration
+
+Copy `.env.example` to `.env.local` for local settings. Production builds use:
+
+- `NEXT_PUBLIC_SITE_URL`: origin only, such as `https://example.org`.
+- `NEXT_PUBLIC_BASE_PATH`: empty at a domain root, or a path such as `/preview`.
+- `CUSTOM_DOMAIN`: optional hostname for generating a `CNAME` file when hosting outside the automated Pages configuration.
+
+Set the same environment variables when building, checking or previewing a subdirectory export. These public values are embedded at build time; never put secrets in them.
+
+No GitHub hostname or repository path is embedded in application code. Internal Next.js links, public images, canonical URLs, language alternates, sitemap, redirects and the 404 page all use deployment configuration.
+
+## GitHub Pages deployment
+
+Set repository **Settings → Pages → Source** to **GitHub Actions**. Every push to `main` runs formatting, linting, TypeScript, content checks, a domain-root export check, the actual Pages export check and Chromium desktop/mobile tests before deployment. Pull requests run the same build checks without deploying.
+
+The workflow obtains the origin and base path directly from `actions/configure-pages`. When ready for a custom domain, configure that domain and DNS in GitHub Pages, then rerun the workflow. Pages supplies the new origin and empty base path; no component or route edits are needed. Keep HTTPS enforcement enabled after GitHub provisions the domain certificate.
+
+The export includes 52 compatibility entry points for previous `.html` addresses and old guide fragments, a bilingual custom 404, `robots.txt`, sitemap and `.nojekyll`. GitHub Pages cannot issue server-side redirects; legacy addresses use static redirect documents with visible fallback links.
+
+## Editing content
+
+Edit `src/content/programmes.json` and `src/content/guides.json`. Keep stable IDs/slugs, provide both translations, and use official provider URLs. Update the content-count assertions if the library intentionally grows. Shared company details live in `src/lib/site.ts`; team biographies and category labels live in `src/lib/content.ts`.
+
+Use the tokens and layout guidance in [DESIGN.md](DESIGN.md). Team photographs are existing supplied assets. Fonts are bundled locally; no external font service, analytics, tracking cookies or contact backend is used. Contact actions open the visitor's email application. Higher education is clearly described as a pathway in development.
+
+See [the migration plan](docs/MIGRATION-PLAN.md) and [dependency decisions](docs/DEPENDENCIES.md).

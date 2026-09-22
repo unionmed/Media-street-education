@@ -1,0 +1,438 @@
+[
+  {
+    "id": "google-ai",
+    "title": "Google AI Essentials",
+    "provider": "Google",
+    "platform": "Google",
+    "category": "ai",
+    "level": "foundation",
+    "outcome": "workflow",
+    "url": "https://grow.google/ai-essentials/",
+    "summary": {
+      "en": "Bring generative AI into everyday work with a practical introduction to prompting, productivity and responsible use.",
+      "ar": "أدخل الذكاء الاصطناعي التوليدي إلى عملك عبر مقدمة عملية في صياغة الطلبات والإنتاجية والاستخدام المسؤول."
+    },
+    "audience": {
+      "en": "Professionals who want to use AI in routine writing, planning and information tasks without starting with programming.",
+      "ar": "للمهنيين الذين يريدون استخدام الذكاء الاصطناعي في الكتابة والتخطيط وتنظيم المعلومات دون البدء بالبرمجة."
+    },
+    "topics": {
+      "en": [
+        "Generative AI basics",
+        "Prompt design",
+        "Reviewing outputs",
+        "Responsible workplace use"
+      ],
+      "ar": [
+        "أساسيات الذكاء الاصطناعي التوليدي",
+        "صياغة الطلبات",
+        "مراجعة النتائج",
+        "الاستخدام المسؤول في العمل"
+      ]
+    },
+    "project": {
+      "en": "Choose a recurring planning task. Compare a manual draft with an AI-assisted version, record the edits you made and write a short quality checklist.",
+      "ar": "اختر مهمة تخطيط متكررة. قارن مسودة يدوية بأخرى بمساعدة الذكاء الاصطناعي، وسجّل تعديلاتك وضع قائمة قصيرة لمراجعة الجودة."
+    }
+  },
+  {
+    "id": "elements-ai",
+    "title": "Elements of AI: Introduction to AI",
+    "provider": "University of Helsinki & MinnaLearn",
+    "platform": "Elements of AI",
+    "category": "ai",
+    "level": "foundation",
+    "outcome": "workflow",
+    "url": "https://course.elementsofai.com/",
+    "summary": {
+      "en": "Develop a clearer understanding of what AI can do, how it reasons and where its limitations matter.",
+      "ar": "طوّر فهمًا أوضح لقدرات الذكاء الاصطناعي وطرق الاستدلال فيه وحدوده العملية."
+    },
+    "audience": {
+      "en": "Curious professionals and students who want conceptual foundations before choosing specialised AI tools or further study.",
+      "ar": "للمهنيين والطلاب الراغبين في بناء أساس مفاهيمي قبل اختيار أدوات متخصصة أو دراسة أعمق."
+    },
+    "topics": {
+      "en": [
+        "Problem solving",
+        "Uncertainty",
+        "Machine learning",
+        "Neural networks",
+        "Social implications"
+      ],
+      "ar": ["حل المشكلات", "عدم اليقين", "تعلم الآلة", "الشبكات العصبية", "الآثار الاجتماعية"]
+    },
+    "project": {
+      "en": "Write a one-page assessment of an AI idea in your organisation: the problem, necessary data, expected benefit and one failure scenario.",
+      "ar": "اكتب تقييمًا من صفحة واحدة لفكرة ذكاء اصطناعي في مؤسستك: المشكلة والبيانات المطلوبة والفائدة المتوقعة وحالة محتملة للفشل."
+    }
+  },
+  {
+    "id": "understanding-ai",
+    "title": "Understanding Artificial Intelligence",
+    "provider": "DataCamp",
+    "platform": "DataCamp",
+    "category": "ai",
+    "level": "foundation",
+    "outcome": "workflow",
+    "url": "https://www.datacamp.com/courses/understanding-artificial-intelligence",
+    "summary": {
+      "en": "Learn the vocabulary and business context needed to discuss AI projects with greater confidence.",
+      "ar": "تعرّف إلى المفاهيم والسياق العملي اللازمين لمناقشة مشاريع الذكاء الاصطناعي بثقة أكبر."
+    },
+    "audience": {
+      "en": "Managers, communicators and project contributors looking for a non-technical overview of AI.",
+      "ar": "للمديرين والمتخصصين في الاتصال وفرق المشاريع الباحثين عن مدخل غير تقني إلى الذكاء الاصطناعي."
+    },
+    "topics": {
+      "en": [
+        "AI and machine learning",
+        "Deep learning",
+        "Generative models",
+        "Organisational adoption"
+      ],
+      "ar": ["الذكاء الاصطناعي وتعلم الآلة", "التعلم العميق", "النماذج التوليدية", "التبني المؤسسي"]
+    },
+    "project": {
+      "en": "Prepare a glossary for your team and connect each concept to a real work example. Separate a useful automation opportunity from a task needing human judgement.",
+      "ar": "جهّز معجمًا لفريقك واربط كل مفهوم بمثال من العمل. ميّز فرصة مناسبة للأتمتة عن مهمة تحتاج إلى حكم بشري."
+    }
+  },
+  {
+    "id": "building-ai",
+    "title": "Elements of AI: Building AI",
+    "provider": "University of Helsinki & MinnaLearn",
+    "platform": "Elements of AI",
+    "category": "ai",
+    "level": "developing",
+    "outcome": "workflow",
+    "url": "https://buildingai.elementsofai.com/",
+    "summary": {
+      "en": "Move from AI awareness toward understanding the methods behind an AI solution and shaping an idea of your own.",
+      "ar": "انتقل من الوعي بالذكاء الاصطناعي إلى فهم طرق بناء الحلول وصياغة فكرة خاصة بك."
+    },
+    "audience": {
+      "en": "Learners with some AI foundations who want to explore methods more deeply; programming experience helps with the coding exercises.",
+      "ar": "لمن يمتلك أساسًا في الذكاء الاصطناعي ويريد تعميق فهمه للطرق؛ تفيد الخبرة البرمجية في التمارين البرمجية."
+    },
+    "topics": {
+      "en": [
+        "Search and optimisation",
+        "Probability",
+        "Machine learning",
+        "Neural networks",
+        "AI ideas"
+      ],
+      "ar": ["البحث والتحسين", "الاحتمالات", "تعلم الآلة", "الشبكات العصبية", "أفكار التطبيقات"]
+    },
+    "project": {
+      "en": "Describe an AI concept with its inputs, output, evaluation approach and an explanation of why that method fits the problem.",
+      "ar": "صِف فكرة تطبيق مع مدخلاته ومخرجاته وطريقة تقييمه وسبب ملاءمة الطريقة للمشكلة."
+    }
+  },
+  {
+    "id": "social-media-marketing",
+    "title": "Meta Social Media Marketing Professional Certificate",
+    "provider": "Meta",
+    "platform": "Coursera",
+    "category": "marketing",
+    "level": "foundation",
+    "outcome": "campaign",
+    "url": "https://www.coursera.org/professional-certificates/facebook-social-media-marketing",
+    "summary": {
+      "en": "Build a structured foundation in social content, audience development and advertising campaign practice.",
+      "ar": "ابنِ أساسًا منظمًا في محتوى التواصل الاجتماعي وتنمية الجمهور وممارسة الحملات الإعلانية."
+    },
+    "audience": {
+      "en": "Aspiring social media specialists and communicators who want to connect creative work with campaign measurement.",
+      "ar": "للمتخصصين الجدد في التواصل الاجتماعي والإعلاميين الذين يريدون ربط الإبداع بقياس أداء الحملات."
+    },
+    "topics": {
+      "en": ["Social strategy", "Content planning", "Advertising", "Campaign measurement"],
+      "ar": ["استراتيجية التواصل", "تخطيط المحتوى", "الإعلان", "قياس الحملات"]
+    },
+    "project": {
+      "en": "Create a sample campaign brief with one audience, one objective, three creative ideas and a measurement plan. Use a hypothetical budget before spending.",
+      "ar": "أنشئ موجز حملة يتضمن جمهورًا وهدفًا وثلاث أفكار إبداعية وخطة قياس. استخدم ميزانية افتراضية قبل الإنفاق."
+    }
+  },
+  {
+    "id": "digital-marketing",
+    "title": "Digital Marketing Certification",
+    "provider": "HubSpot Academy",
+    "platform": "HubSpot Academy",
+    "category": "marketing",
+    "level": "foundation",
+    "outcome": "campaign",
+    "url": "https://academy.hubspot.com/courses/digital-marketing",
+    "summary": {
+      "en": "Connect content, search, email and social media within a coherent digital marketing approach.",
+      "ar": "اربط المحتوى والبحث والبريد والتواصل الاجتماعي ضمن نهج متكامل للتسويق الرقمي."
+    },
+    "audience": {
+      "en": "Small teams and early-career marketers who need an overview before specialising in one channel.",
+      "ar": "للفرق الصغيرة والمسوقين في بداية مسيرتهم ممن يحتاجون صورة شاملة قبل التخصص في قناة واحدة."
+    },
+    "topics": {
+      "en": ["Digital strategy", "Content", "SEO", "Social media", "Email", "Performance"],
+      "ar": ["الاستراتيجية الرقمية", "المحتوى", "تحسين محركات البحث", "التواصل", "البريد", "الأداء"]
+    },
+    "project": {
+      "en": "Map the journey from discovering a programme to sending an enquiry. Assign one useful message and one success measure to each stage.",
+      "ar": "ارسم رحلة الجمهور من اكتشاف برنامج إلى إرسال استفسار. حدّد رسالة مفيدة ومؤشر نجاح لكل مرحلة."
+    }
+  },
+  {
+    "id": "content-marketing",
+    "title": "Content Marketing Certification",
+    "provider": "HubSpot Academy",
+    "platform": "HubSpot Academy",
+    "category": "marketing",
+    "level": "foundation",
+    "outcome": "campaign",
+    "url": "https://academy.hubspot.com/courses/content-marketing",
+    "summary": {
+      "en": "Develop a repeatable editorial approach to useful content, storytelling and promotion.",
+      "ar": "طوّر نهجًا تحريريًا قابلًا للتكرار لصناعة محتوى مفيد وقصص واضحة وترويج فعال."
+    },
+    "audience": {
+      "en": "Writers, media producers and communications teams building a more consistent publishing practice.",
+      "ar": "للكتّاب والمنتجين الإعلاميين وفرق الاتصال التي تسعى إلى ممارسة نشر أكثر اتساقًا."
+    },
+    "topics": {
+      "en": [
+        "Storytelling",
+        "Content planning",
+        "Writing",
+        "Repurposing",
+        "Promotion",
+        "Measurement"
+      ],
+      "ar": ["السرد", "تخطيط المحتوى", "الكتابة", "إعادة التوظيف", "الترويج", "القياس"]
+    },
+    "project": {
+      "en": "Turn one expert interview into an article outline, a short video script and three social posts. Keep the evidence and key message consistent.",
+      "ar": "حوّل مقابلة مع خبير إلى مخطط مقال ونص فيديو قصير وثلاث منشورات، مع الحفاظ على اتساق الأدلة والرسالة الأساسية."
+    }
+  },
+  {
+    "id": "google-marketing",
+    "title": "Google Digital Marketing & E-commerce Professional Certificate",
+    "provider": "Google",
+    "platform": "Coursera",
+    "category": "marketing",
+    "level": "foundation",
+    "outcome": "campaign",
+    "url": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce",
+    "summary": {
+      "en": "Explore digital marketing and online commerce as connected parts of the customer journey.",
+      "ar": "استكشف التسويق الرقمي والتجارة الإلكترونية كجزأين مترابطين من رحلة العميل."
+    },
+    "audience": {
+      "en": "Career starters and business teams looking for a broader route through marketing channels and e-commerce practice.",
+      "ar": "للمبتدئين مهنيًا وفرق الأعمال التي تبحث عن مسار أوسع في قنوات التسويق وممارسة التجارة الإلكترونية."
+    },
+    "topics": {
+      "en": ["Marketing channels", "Email", "Analytics", "Online stores", "Customer loyalty"],
+      "ar": ["قنوات التسويق", "البريد", "التحليلات", "المتاجر الإلكترونية", "ولاء العملاء"]
+    },
+    "project": {
+      "en": "Create a launch plan for a sample product or service: audience, channel mix, landing-page outline and the metrics you will review weekly.",
+      "ar": "أنشئ خطة إطلاق لمنتج أو خدمة افتراضية: الجمهور ومزيج القنوات ومخطط صفحة الهبوط والمؤشرات التي ستراجعها أسبوعيًا."
+    }
+  },
+  {
+    "id": "project-management",
+    "title": "Google Project Management Professional Certificate",
+    "provider": "Google",
+    "platform": "Coursera",
+    "category": "data",
+    "level": "foundation",
+    "outcome": "project",
+    "url": "https://www.coursera.org/professional-certificates/google-project-management",
+    "summary": {
+      "en": "Build an organised approach to planning, coordinating stakeholders and delivering projects.",
+      "ar": "ابنِ نهجًا منظمًا لتخطيط المشاريع وتنسيق أصحاب المصلحة وتسليم النتائج."
+    },
+    "audience": {
+      "en": "Project coordinators, producers and professionals moving into a role with responsibility for delivery.",
+      "ar": "لمنسقي المشاريع والمنتجين والمهنيين المنتقلين إلى أدوار تتحمل مسؤولية التنفيذ والتسليم."
+    },
+    "topics": {
+      "en": ["Project planning", "Scope", "Risks", "Stakeholders", "Agile foundations"],
+      "ar": ["تخطيط المشروع", "النطاق", "المخاطر", "أصحاب المصلحة", "أسس العمل المرن"]
+    },
+    "project": {
+      "en": "Build a one-page project charter for a programme launch, then add a milestone plan, risk register and a clear definition of done.",
+      "ar": "أنشئ ميثاق مشروع من صفحة واحدة لإطلاق برنامج، وأضف خطة للمراحل وسجل مخاطر وتعريفًا واضحًا لاكتمال العمل."
+    }
+  },
+  {
+    "id": "data-analytics",
+    "title": "Google Data Analytics Professional Certificate",
+    "provider": "Google",
+    "platform": "Coursera",
+    "category": "data",
+    "level": "foundation",
+    "outcome": "analysis",
+    "url": "https://www.coursera.org/professional-certificates/google-data-analytics",
+    "summary": {
+      "en": "Develop a practical process for asking questions, preparing data and communicating findings.",
+      "ar": "طوّر منهجًا عمليًا لطرح الأسئلة وتجهيز البيانات وإيصال النتائج."
+    },
+    "audience": {
+      "en": "Professionals exploring analytics and teams that need stronger evidence for everyday decisions.",
+      "ar": "للمهنيين الذين يستكشفون تحليل البيانات والفرق التي تحتاج أدلة أقوى في قراراتها اليومية."
+    },
+    "topics": {
+      "en": [
+        "Analytical questions",
+        "Data preparation",
+        "Analysis",
+        "Visualisation",
+        "Communication"
+      ],
+      "ar": ["الأسئلة التحليلية", "تجهيز البيانات", "التحليل", "التمثيل البصري", "عرض النتائج"]
+    },
+    "project": {
+      "en": "Use a public dataset to answer one defined question. Document the cleaning steps and present one chart with a decision and a limitation.",
+      "ar": "استخدم بيانات عامة للإجابة عن سؤال محدد. وثّق خطوات التنظيف وقدّم رسمًا بيانيًا واحدًا مع قرار وحدود الاستنتاج."
+    }
+  },
+  {
+    "id": "sql",
+    "title": "Introduction to SQL",
+    "provider": "DataCamp",
+    "platform": "DataCamp",
+    "category": "data",
+    "level": "foundation",
+    "outcome": "analysis",
+    "url": "https://www.datacamp.com/courses/introduction-to-sql",
+    "summary": {
+      "en": "Take a first step into relational data and the queries used to retrieve it.",
+      "ar": "ابدأ بفهم البيانات العلائقية والاستعلامات المستخدمة لاسترجاعها."
+    },
+    "audience": {
+      "en": "Spreadsheet users and aspiring analysts who want to understand how information is organised in databases.",
+      "ar": "لمستخدمي الجداول والمحللين الجدد الذين يريدون فهم تنظيم المعلومات في قواعد البيانات."
+    },
+    "topics": {
+      "en": ["Relational tables", "Database structure", "Basic SQL queries"],
+      "ar": ["الجداول العلائقية", "بنية قواعد البيانات", "استعلامات SQL الأساسية"]
+    },
+    "project": {
+      "en": "Sketch two related tables for a course catalogue, identify their keys and write basic queries that select relevant columns.",
+      "ar": "ارسم جدولين مترابطين لدليل دورات، وحدّد مفاتيحهما واكتب استعلامات بسيطة لاختيار الأعمدة المطلوبة."
+    }
+  },
+  {
+    "id": "python",
+    "title": "Introduction to Python",
+    "provider": "DataCamp",
+    "platform": "DataCamp",
+    "category": "data",
+    "level": "foundation",
+    "outcome": "analysis",
+    "url": "https://www.datacamp.com/courses/intro-to-python-for-data-science",
+    "summary": {
+      "en": "Start programming with Python through foundational syntax and data-oriented exercises.",
+      "ar": "ابدأ البرمجة بلغة بايثون من خلال القواعد الأساسية وتمارين مرتبطة بالبيانات."
+    },
+    "audience": {
+      "en": "New programmers interested in data work and professionals who want to explore small, repeatable calculations.",
+      "ar": "للمبرمجين الجدد المهتمين بالبيانات والمهنيين الراغبين في استكشاف عمليات حسابية صغيرة قابلة للتكرار."
+    },
+    "topics": {
+      "en": ["Variables", "Lists", "Functions", "Packages", "NumPy foundations"],
+      "ar": ["المتغيرات", "القوائم", "الدوال", "الحزم", "أسس NumPy"]
+    },
+    "project": {
+      "en": "Create a small notebook that summarises a fictional campaign dataset. Explain each calculation in plain language alongside the code.",
+      "ar": "أنشئ دفترًا برمجيًا صغيرًا يلخّص بيانات حملة افتراضية، واشرح كل عملية حسابية بلغة واضحة بجانب الشيفرة."
+    }
+  },
+  {
+    "id": "negotiation",
+    "title": "Successful Negotiation: Essential Strategies and Skills",
+    "provider": "University of Michigan",
+    "platform": "Coursera",
+    "category": "leadership",
+    "level": "foundation",
+    "outcome": "leadership",
+    "url": "https://www.coursera.org/learn/negotiation-skills",
+    "summary": {
+      "en": "Prepare for more deliberate negotiation by connecting preparation, conversation and evaluation.",
+      "ar": "استعد لتفاوض أكثر وعيًا يربط بين التحضير والحوار وتقييم النتيجة."
+    },
+    "audience": {
+      "en": "Professionals who negotiate project scope, resources or working relationships and want a structured practice.",
+      "ar": "للمهنيين الذين يتفاوضون بشأن نطاق المشاريع أو الموارد أو علاقات العمل ويريدون ممارسة منظمة."
+    },
+    "topics": {
+      "en": ["Preparation", "Negotiation strategy", "Agreement", "Performance evaluation"],
+      "ar": ["التحضير", "استراتيجية التفاوض", "الاتفاق", "تقييم الأداء"]
+    },
+    "project": {
+      "en": "Prepare a role-play about a project deadline. Write down interests, alternatives and trade-offs, then review what changed after the conversation.",
+      "ar": "حضّر محاكاة لتفاوض على موعد تسليم مشروع. دوّن المصالح والبدائل والمقايضات ثم راجع ما تغيّر بعد الحوار."
+    }
+  },
+  {
+    "id": "emotional-intelligence",
+    "title": "Inspiring Leadership through Emotional Intelligence",
+    "provider": "Case Western Reserve University",
+    "platform": "Coursera",
+    "category": "leadership",
+    "level": "developing",
+    "outcome": "leadership",
+    "url": "https://www.coursera.org/learn/emotional-intelligence-leadership",
+    "summary": {
+      "en": "Explore how awareness, relationships and reflection support leadership and personal change.",
+      "ar": "استكشف كيف يدعم الوعي والعلاقات والتأمل القيادة والتغيير الشخصي."
+    },
+    "audience": {
+      "en": "Team leads and experienced contributors who want to reflect on their interactions and development.",
+      "ar": "لقادة الفرق والمهنيين ذوي الخبرة الراغبين في مراجعة تفاعلاتهم وتطوير ممارستهم."
+    },
+    "topics": {
+      "en": ["Emotional intelligence", "Relationships", "Mindfulness", "Sustained change"],
+      "ar": ["الذكاء العاطفي", "العلاقات", "الانتباه الواعي", "التغيير المستدام"]
+    },
+    "project": {
+      "en": "Keep a two-week reflection journal about one leadership habit. Record the situation, your response and a small adjustment to try next time.",
+      "ar": "احتفظ بسجل تأمل لمدة أسبوعين حول عادة قيادية واحدة. سجّل الموقف واستجابتك وتعديلًا صغيرًا لتجربته لاحقًا."
+    }
+  },
+  {
+    "id": "leadership",
+    "title": "Leadership and Followership",
+    "provider": "The Open University",
+    "platform": "OpenLearn",
+    "category": "leadership",
+    "level": "foundation",
+    "outcome": "leadership",
+    "url": "https://www.open.edu/openlearn/education-development/learning/leadership-and-followership",
+    "summary": {
+      "en": "Look at leadership from both sides of a team relationship and develop a personal action plan.",
+      "ar": "انظر إلى القيادة من جانبي العلاقة داخل الفريق وطوّر خطة عمل شخصية."
+    },
+    "audience": {
+      "en": "New and aspiring team leaders, and contributors who want to understand their role in a team.",
+      "ar": "لقادة الفرق الجدد والطامحين إلى القيادة وأعضاء الفرق الذين يريدون فهم دورهم بصورة أفضل."
+    },
+    "topics": {
+      "en": [
+        "Leadership styles",
+        "Followership",
+        "Team challenges",
+        "Reflection",
+        "Development planning"
+      ],
+      "ar": ["أساليب القيادة", "دور أعضاء الفريق", "تحديات الفريق", "التأمل", "تخطيط التطوير"]
+    },
+    "project": {
+      "en": "Choose one common team challenge and write a short action plan with responsibilities, a review date and a sign that collaboration has improved.",
+      "ar": "اختر تحديًا شائعًا في الفريق واكتب خطة قصيرة تحدد المسؤوليات وموعد المراجعة وعلامة تدل على تحسّن التعاون."
+    }
+  }
+]

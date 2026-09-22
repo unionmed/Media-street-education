@@ -1,0 +1,605 @@
+[
+  {
+    "slug": "certificate",
+    "category": {
+      "en": "PROFESSIONAL LEARNING",
+      "ar": "التعلم المهني"
+    },
+    "title": {
+      "en": "How to assess a professional certificate before paying",
+      "ar": "كيف تقيّم شهادة مهنية قبل الدفع؟"
+    },
+    "intro": {
+      "en": "A professional certificate should be judged as a work investment, not merely as a collection of recorded lessons. Start with the outcome: do you need a concrete skill, proof for an employer, a transition into a different role, or a pathway to later academic study? Each goal requires different evidence.",
+      "ar": "الشهادة المهنية استثمار في العمل وليست مجموعة تسجيلات فيديو فقط. ابدأ بالنتيجة التي تريدها: مهارة عملية، إثبات لصاحب عمل، انتقال مهني أو طريق لدراسة لاحقة. كل هدف يحتاج نوعًا مختلفًا من الأدلة."
+    },
+    "sections": [
+      {
+        "heading": {
+          "en": "1. Identify the provider and the credential",
+          "ar": "1. تحقق من الجهة ومن اسم الشهادة"
+        },
+        "paragraphs": {
+          "en": [
+            "Check who creates the learning, who issues the certificate and whether those are the same organisation. A university-branded course, a platform certificate and an industry certificate can each be useful, but they are not interchangeable. Read the exact credential name rather than relying on marketing language."
+          ],
+          "ar": [
+            "اعرف من يضع المادة، ومن يمنح الشهادة، وهل هما الجهة نفسها. شهادة منصة أو جامعة أو شركة قد تكون مفيدة، لكنها ليست الشيء نفسه. اقرأ الاسم الدقيق للشهادة ولا تعتمد على العبارة الدعائية وحدها."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "2. Look for a visible practical outcome",
+          "ar": "2. ابحث عن نتيجة عملية ظاهرة"
+        },
+        "paragraphs": {
+          "en": [
+            "The most useful programmes name the skills, tools and assessments involved. Look for projects, case work, datasets, campaigns or other evidence you can use after completion. If the description is vague about what you will do, be careful about what you expect to gain."
+          ],
+          "ar": [
+            "البرنامج المفيد يحدد المهارات والأدوات والتقييمات. ابحث عن مشاريع أو حالات عملية أو مواد تستطيع استخدامها بعد الإتمام. الغموض في ما ستفعله يعني غموضًا في الفائدة المتوقعة."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "3. Calculate the real commitment",
+          "ar": "3. احسب الالتزام الحقيقي"
+        },
+        "paragraphs": {
+          "en": [
+            "Compare the stated weekly hours with your available time. Self-paced learning still requires a schedule. Include revision, assignments and the possibility that English-language technical material will take longer than expected."
+          ],
+          "ar": [
+            "قارن الساعات الأسبوعية المذكورة بوقتك الفعلي. التعلم المرن يحتاج أيضًا إلى تنظيم؛ أضف وقت المراجعة والواجبات والوقت الإضافي للمادة التقنية بالإنكليزية."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "4. Check the total cost and renewal model",
+          "ar": "4. راجع الكلفة الكاملة"
+        },
+        "paragraphs": {
+          "en": [
+            "Do not make a decision from a monthly figure alone. Confirm whether the price is one-off, subscription-based, tied to completion time, or affected by region and discounts. Check refund terms before purchase."
+          ],
+          "ar": [
+            "لا تبنِ القرار على رقم شهري فقط. تحقق من كونه اشتراكًا أو رسومًا ثابتة أو مرتبطًا بمدة الإكمال، ومن سياسة الاسترداد قبل الدفع."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "5. Test the relevance with one question",
+          "ar": "5. اسأل سؤالًا واحدًا"
+        },
+        "paragraphs": {
+          "en": [
+            "Ask: “What will I be able to show or do differently in 90 days?” If the answer is concrete, the programme may fit. If it depends only on the logo, continue comparing."
+          ],
+          "ar": [
+            "«ماذا سأستطيع أن أُظهره أو أفعله بشكل مختلف بعد 90 يومًا؟» إذا كانت الإجابة عملية وواضحة، فالبرنامج قد يناسبك."
+          ]
+        }
+      }
+    ],
+    "sources": [],
+    "relatedPath": "/programmes"
+  },
+  {
+    "slug": "platforms",
+    "category": {
+      "en": "PROFESSIONAL LEARNING",
+      "ar": "التعلم المهني"
+    },
+    "title": {
+      "en": "Coursera, edX or Udemy: begin with the learning need",
+      "ar": "Coursera أو edX أو Udemy: ابدأ بحاجة التعلم"
+    },
+    "intro": {
+      "en": "These platforms have overlapping topics but different structures. The right choice depends on the depth, format and credential you need.",
+      "ar": "تتداخل الموضوعات في هذه المنصات، لكن بنية العرض مختلفة. الاختيار الصحيح يتعلق بالعمق والشكل ونوع الشهادة الذي تحتاجه."
+    },
+    "sections": [
+      {
+        "heading": {
+          "en": "Coursera",
+          "ar": "Coursera"
+        },
+        "paragraphs": {
+          "en": [
+            "Coursera hosts courses and certificates from universities and industry partners. It can be a good starting point when you want a structured professional certificate or a sequence of courses with a named provider. Review the individual course page because requirements and pricing vary."
+          ],
+          "ar": [
+            "تستضيف Coursera دورات وشهادات من جامعات وشركاء من الصناعة. قد تناسب من يريد شهادة مهنية منظمة أو تسلسلًا من الدورات مع جهة معروفة. راجع صفحة كل برنامج لأن المتطلبات والأسعار تتغير."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "edX",
+          "ar": "edX"
+        },
+        "paragraphs": {
+          "en": [
+            "edX is associated with university and professional learning offerings, including individual courses and more structured programmes. It can suit learners looking for academically framed topics or a specific institutional offering. Again, the programme page—not the platform name—defines the actual credential and conditions."
+          ],
+          "ar": [
+            "ترتبط edX بعروض جامعية ومهنية، بما فيها دورات منفردة وبرامج أكثر تنظيمًا. قد تناسب من يبحث عن موضوع بصيغة أكاديمية أو عرض مؤسسي محدد. صفحة البرنامج هي التي تحدد الشهادة وشروطها الفعلية."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "Udemy",
+          "ar": "Udemy"
+        },
+        "paragraphs": {
+          "en": [
+            "Udemy’s marketplace model offers a wide range of instructor-led practical courses, often useful for a focused tool or immediate skill. Quality and depth can vary more between courses, so the instructor profile, curriculum, recent updates and reviews deserve closer checking.",
+            "A platform comparison cannot replace reviewing the exact course. Choose a programme with the level, assessment and learning outcome your work actually needs."
+          ],
+          "ar": [
+            "تقدم Udemy مجموعة واسعة من الدورات العملية التي يقدّمها مدربون، وقد تفيد في أداة محددة أو مهارة سريعة. تختلف الجودة والعمق بين الدورات؛ لذا دقق في المدرب والمنهج وآخر تحديث وتقييمات المتعلمين.",
+            "المقارنة بين المنصات لا تغني عن قراءة صفحة البرنامج نفسه: اختر ما يناسب مستواك ونتيجتك العملية."
+          ]
+        }
+      }
+    ],
+    "sources": [],
+    "relatedPath": "/programmes"
+  },
+  {
+    "slug": "route",
+    "category": {
+      "en": "PROFESSIONAL LEARNING",
+      "ar": "التعلم المهني"
+    },
+    "title": {
+      "en": "A focused route into AI, media and marketing",
+      "ar": "مسار مركز للذكاء الاصطناعي والإعلام والتسويق"
+    },
+    "intro": {
+      "en": "“Learn AI” is too broad to guide a useful decision. A stronger route begins with a work problem: improving research preparation, creating a content calendar, analysing audience data, or managing a campaign workflow.",
+      "ar": "«تعلم الذكاء الاصطناعي» عبارة واسعة جدًا. المسار الأفضل يبدأ من مشكلة في العمل: تطوير البحث، وضع خطة محتوى، تحليل جمهور أو تنظيم حملة."
+    },
+    "sections": [
+      {
+        "heading": {
+          "en": "Define one work result",
+          "ar": "حدد نتيجة واحدة"
+        },
+        "paragraphs": {
+          "en": [
+            "Choose a small, credible result you can complete: a documented research workflow, a campaign brief, a data dashboard or an editorial plan. This gives a course a practical destination."
+          ],
+          "ar": [
+            "اختر نتيجة صغيرة قابلة للتنفيذ: منهج بحث موثق، موجز حملة، لوحة بيانات أو خطة تحريرية. هكذا يصبح للدورة هدف عملي."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "Choose one core skill and one supporting skill",
+          "ar": "مهارة أساسية وأخرى داعمة"
+        },
+        "paragraphs": {
+          "en": [
+            "For example, a marketer may pair a social-media strategy course with basic data analytics. A media professional may combine AI-assisted research practice with an editorial planning course. Avoid starting three unrelated certificates at once."
+          ],
+          "ar": [
+            "قد يجمع المسوق بين استراتيجية السوشيال ميديا والتحليل الأساسي للبيانات. وقد يجمع الإعلامي بين البحث المدعوم بالذكاء الاصطناعي والتخطيط التحريري. لا تبدأ ثلاث شهادات غير مترابطة دفعة واحدة."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "Build a record as you learn",
+          "ar": "وثّق ما تتعلمه"
+        },
+        "paragraphs": {
+          "en": [
+            "Keep short notes on what changed in your workflow, the decisions you made and the result. With permission and without confidential data, turn the result into a small portfolio case. This makes the learning more visible than a certificate alone."
+          ],
+          "ar": [
+            "احتفظ بملاحظات قصيرة عن ما تغيّر في طريقة عملك والنتيجة التي وصلت إليها. ومن دون بيانات سرية، حوّل الناتج إلى حالة قصيرة في ملف أعمالك."
+          ]
+        }
+      }
+    ],
+    "sources": [],
+    "relatedPath": "/programmes"
+  },
+  {
+    "slug": "choose-masters",
+    "category": {
+      "en": "HIGHER EDUCATION",
+      "ar": "التعليم العالي"
+    },
+    "title": {
+      "en": "Choosing a master’s that fits your next chapter",
+      "ar": "كيف تختار ماستر يلائم مرحلتك التالية؟"
+    },
+    "intro": {
+      "en": "A useful shortlist begins with the work you want to do and the life you need to study around. Build the comparison before falling in love with a university name.",
+      "ar": "تبدأ القائمة المفيدة من العمل الذي تريد القيام به والحياة التي ستنظّم الدراسة ضمنها. ابنِ المقارنة قبل أن تتعلق باسم جامعة."
+    },
+    "sections": [
+      {
+        "heading": {
+          "en": "Write the decision in one sentence",
+          "ar": "اكتب قرارك في جملة واحدة"
+        },
+        "paragraphs": {
+          "en": [
+            "Complete this sentence: “I want this degree to help me move from … to …”. A change of profession, deeper specialist practice and preparation for research are different objectives. Pick the primary one. Then write down what would make the degree a poor fit: too much repetition, a timetable you cannot attend or too little research preparation. This makes your shortlist easier to defend."
+          ],
+          "ar": [
+            "أكمل الجملة: «أريد أن تساعدني هذه الدرجة على الانتقال من… إلى…». تغيير المهنة وتعميق التخصص والاستعداد للبحث أهداف مختلفة. اختر هدفًا رئيسيًا، ثم دوّن ما قد يجعل البرنامج غير ملائم: تكرار معرفة تمتلكها، أو مواعيد لا تستطيع حضورها، أو ضعف في الإعداد البحثي. هكذا تصبح قائمتك أوضح وأقوى."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "Compare modules and assessment",
+          "ar": "قارن المقررات والتقييم"
+        },
+        "paragraphs": {
+          "en": [
+            "Choose three programmes and list their required modules, optional choices, final project and assessment methods. Mark the parts that support your objective. Ask how much choice is actually available in your intake. A promising module title is less useful than knowing what you will read, produce and receive feedback on. For a future research route, investigate the research training and dissertation arrangements in particular."
+          ],
+          "ar": [
+            "اختر ثلاثة برامج وسجّل المقررات الإلزامية والاختيارية والمشروع النهائي وأساليب التقييم. علّم الأجزاء التي تخدم هدفك، واسأل عن الخيارات المتاحة فعليًا في دفعتك. اسم مقرر جذاب أقل فائدة من معرفة ما ستقرأه وتنجزه وتتلقى ملاحظات عليه. وإذا كان هدفك البحث، فدقق في التدريب البحثي وترتيبات الرسالة."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "Test the timetable against a real week",
+          "ar": "اختبر الجدول ضمن أسبوع حقيقي"
+        },
+        "paragraphs": {
+          "en": [
+            "Put study sessions in your calendar alongside work, care responsibilities and travel. Leave room for assessment peaks. The Open University highlights the greater independence and intensity involved in postgraduate work; use that as a prompt to ask each provider for realistic weekly expectations. For distance study, check live attendance, time zones, examinations and any required visits instead of assuming that online means fully asynchronous."
+          ],
+          "ar": [
+            "ضع جلسات الدراسة في تقويمك إلى جانب العمل والمسؤوليات والتنقل، واترك مساحة لفترات تسليم الواجبات. تشير الجامعة المفتوحة إلى الاستقلالية والكثافة الأعلى في دراسة ما بعد الإجازة؛ استخدم ذلك لطلب تقدير واقعي للعبء الأسبوعي من كل جهة. وفي الدراسة عن بعد، تحقّق من الحضور المباشر والتوقيت والامتحانات والزيارات المطلوبة."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "Make a decision sheet, not a ranking",
+          "ar": "أنشئ ورقة قرار لا ترتيبًا عامًا"
+        },
+        "paragraphs": {
+          "en": [
+            "Use five headings: academic fit, delivery, support, full cost and the requirements of your intended employer or next institution. Record evidence and unanswered questions beside each. Verify recognition with the relevant destination authority when it matters to your goal. Your next action is a precise enquiry to the university, with the three questions that could change your choice."
+          ],
+          "ar": [
+            "استخدم خمسة محاور: الملاءمة الأكاديمية، وشكل الدراسة، والدعم، والكلفة الكاملة، ومتطلبات جهة العمل أو المؤسسة التالية. سجّل الأدلة والأسئلة المفتوحة أمام كل محور. تحقّق من الاعتراف لدى الجهة المعنية حين يكون ضروريًا لهدفك. خطوتك التالية هي استفسار دقيق للجامعة يتضمن الأسئلة الثلاثة التي قد تغيّر اختيارك."
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Open University: postgraduate workload",
+        "url": "https://www.open.edu/openlearn/mod/oucontent/view.php?id=51385&section=3"
+      }
+    ],
+    "relatedPath": "/higher-education"
+  },
+  {
+    "slug": "doctorate-route",
+    "category": {
+      "en": "DOCTORAL STUDY",
+      "ar": "الدراسة الدكتورالية"
+    },
+    "title": {
+      "en": "PhD or professional doctorate: start with the research question",
+      "ar": "دكتوراه بحثية أم مهنية؟ ابدأ من سؤال البحث"
+    },
+    "intro": {
+      "en": "The right doctoral route depends on the problem you want to investigate, the contribution you hope to make and the conditions in which you can sustain the work.",
+      "ar": "يتعلق اختيار المسار الدكتورالي بالمشكلة التي تريد بحثها والإسهام الذي تطمح إليه والظروف التي تستطيع مواصلة العمل ضمنها."
+    },
+    "sections": [
+      {
+        "heading": {
+          "en": "Look beyond the letters",
+          "ar": "تجاوز اختصار اسم الدرجة"
+        },
+        "paragraphs": {
+          "en": [
+            "A PhD commonly centres on an original research contribution. Professional doctorates such as a DBA often connect doctoral research with a field of professional practice. These are orientations, not a universal rule about every programme. Portsmouth’s DBA, for example, is framed around researching a business problem and influencing practice. Compare the actual research expectations, taught components and assessment regulations of each programme."
+          ],
+          "ar": [
+            "تتمحور الدكتوراه البحثية عادة حول إسهام بحثي أصيل، بينما تربط درجات مهنية مثل DBA البحث بمجال ممارسة مهنية. هذه اتجاهات عامة وليست قاعدة لكل برنامج. فبرنامج DBA في جامعة بورتسموث، مثلًا، يركز على بحث مشكلة أعمال والتأثير في الممارسة. قارن توقعات البحث والمقررات ولوائح التقييم الفعلية لكل برنامج."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "Describe a question you can investigate",
+          "ar": "صِغ سؤالًا يمكنك بحثه"
+        },
+        "paragraphs": {
+          "en": [
+            "Replace “I want to study leadership” with a bounded question about a setting, group or process. What puzzles you? What evidence could help? Why would answering it matter beyond your own experience? You do not need a finished thesis idea to begin exploring, but you do need enough specificity to identify a department and a possible supervisory fit."
+          ],
+          "ar": [
+            "استبدل عبارة «أريد دراسة القيادة» بسؤال محدد يتعلق بسياق أو فئة أو عملية. ما الذي يثير تساؤلك؟ وما الأدلة التي تساعدك؟ ولماذا تهم الإجابة خارج تجربتك الشخصية؟ لا تحتاج إلى فكرة أطروحة مكتملة لتبدأ الاستكشاف، لكنك تحتاج إلى تحديد كافٍ للعثور على قسم وإشراف ملائمين."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "Check access and supervision early",
+          "ar": "تحقّق من البيانات والإشراف مبكرًا"
+        },
+        "paragraphs": {
+          "en": [
+            "For a workplace-based question, ask whether the information and participants would remain accessible if your job changed. Consider confidentiality, permissions and research ethics before promising a dataset. Read prospective supervisors’ recent work and compare their methods with your interests. An attractive university name cannot replace a credible match between the project, expertise and available supervision."
+          ],
+          "ar": [
+            "في السؤال المرتبط ببيئة العمل، اسأل هل ستبقى المعلومات والمشاركون متاحين إذا تغيّرت وظيفتك. فكّر في السرية والأذونات وأخلاقيات البحث قبل التعهد بالحصول على بيانات. اقرأ أعمال المشرفين المحتملين وقارن طرقهم باهتماماتك. اسم الجامعة وحده لا يعوّض التوافق بين المشروع والخبرة والإشراف المتاح."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "Compare the working conditions",
+          "ar": "قارن شروط العمل البحثي"
+        },
+        "paragraphs": {
+          "en": [
+            "Build a comparison covering attendance, milestones, supervision frequency, progression reviews, full fees and your intended use of the qualification. Ask the university to clarify ambiguous points in writing. Recognition and employment expectations depend on the destination and role, so check those directly. A strong next step is a short concept note and a focused academic enquiry, not choosing solely by the title."
+          ],
+          "ar": [
+            "قارن الحضور والمراحل وعدد لقاءات الإشراف ومراجعات التقدم والرسوم الكاملة واستخدامك المقصود للدرجة. اطلب توضيح النقاط الغامضة كتابيًا. تعتمد متطلبات الاعتراف والعمل على الوجهة والدور، لذا تحقّق منها مباشرة. البداية القوية هي مذكرة فكرة قصيرة واستفسار أكاديمي محدد، لا اختيار مبني على اللقب وحده."
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "University of Portsmouth: DBA programme",
+        "url": "https://www.port.ac.uk/study/courses/postgraduate-taught/dba-professional-doctorate-in-business-administration"
+      }
+    ],
+    "relatedPath": "/guides/research-proposal"
+  },
+  {
+    "slug": "research-proposal",
+    "category": {
+      "en": "RESEARCH PREPARATION",
+      "ar": "الاستعداد للبحث"
+    },
+    "title": {
+      "en": "Turn a broad interest into a research proposal",
+      "ar": "حوّل اهتمامًا واسعًا إلى مقترح بحث"
+    },
+    "intro": {
+      "en": "A proposal is a reasoned case for a project you can carry out. Use a short concept note to expose the questions you still need to answer before writing the full application.",
+      "ar": "المقترح حجة مدروسة لمشروع تستطيع تنفيذه. ابدأ بمذكرة فكرة قصيرة تكشف الأسئلة التي تحتاج إلى إجابتها قبل كتابة الطلب الكامل."
+    },
+    "sections": [
+      {
+        "heading": {
+          "en": "Separate the topic from the question",
+          "ar": "ميّز الموضوع من السؤال"
+        },
+        "paragraphs": {
+          "en": [
+            "“AI in education” is a topic. A question identifies what you want to understand, for whom and in what setting. Draft three possible questions, then select the one you can investigate with plausible evidence and access. Explain why the question matters in a short paragraph. Avoid promising to transform an entire sector when the proposed work concerns one bounded setting."
+          ],
+          "ar": [
+            "«الذكاء الاصطناعي في التعليم» موضوع. أما السؤال فيحدد ما تريد فهمه ولمن وفي أي سياق. صغ ثلاثة أسئلة محتملة ثم اختر ما يمكن بحثه بأدلة ووصول واقعيين. اشرح أهميته في فقرة قصيرة، وتجنب الوعد بتغيير قطاع كامل بينما يتناول مشروعك سياقًا محدودًا."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "Read to position the problem",
+          "ar": "اقرأ لتحديد موقع المشكلة"
+        },
+        "paragraphs": {
+          "en": [
+            "Create a reading table with four columns: source, question, method and what it leaves unresolved. Use it to compare studies instead of collecting quotations. Your first reading should help narrow the question and show how the proposed work connects to existing knowledge. Keep accurate references as you go. If you use AI to organise notes, verify every reference against the original publication."
+          ],
+          "ar": [
+            "أنشئ جدول قراءة بأربعة أعمدة: المصدر والسؤال والطريقة وما بقي دون حسم. استخدمه لمقارنة الدراسات بدل جمع الاقتباسات. يجب أن تساعدك القراءة الأولى على تضييق السؤال وربط العمل المقترح بالمعرفة القائمة. احفظ المراجع بدقة، وإذا استخدمت الذكاء الاصطناعي لتنظيم الملاحظات فتحقّق من كل مرجع في منشوره الأصلي."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "Match the method to the evidence needed",
+          "ar": "اربط الطريقة بالأدلة المطلوبة"
+        },
+        "paragraphs": {
+          "en": [
+            "Explain what material could answer your question and how you would obtain and analyse it. Interviews, documents and numerical data serve different purposes. Consider the practical constraints: recruitment, permissions, language, time and your own methodological preparation. Write down the most likely obstacle and a realistic alternative. This makes the proposal more credible than naming an impressive method without an access plan."
+          ],
+          "ar": [
+            "اشرح المادة التي قد تجيب عن سؤالك وكيف ستجمعها وتحللها. تؤدي المقابلات والوثائق والبيانات العددية أغراضًا مختلفة. راعِ الاستقطاب والأذونات واللغة والوقت واستعدادك المنهجي. دوّن العقبة الأرجح وبديلًا واقعيًا؛ فهذا أكثر إقناعًا من تسمية طريقة متقدمة دون خطة للوصول إلى البيانات."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "Adapt to the department",
+          "ar": "كيّف النص مع القسم"
+        },
+        "paragraphs": {
+          "en": [
+            "Edinburgh’s application guidance points applicants to a proposal structure and practical writing advice. Use university guidance as a starting point, then follow the exact requirements of the department or funding call you are applying to. Check length, headings, references and whether contact with a supervisor is expected. Finish by asking a reader to explain your question back to you; if they cannot, simplify it."
+          ],
+          "ar": [
+            "توجّه إرشادات إدنبرة المتقدمين إلى بنية للمقترح ونصائح عملية للكتابة. استخدم إرشادات الجامعة نقطة بداية ثم اتبع متطلبات القسم أو دعوة التمويل المقصودة. راجع الطول والعناوين والمراجع وتوقعات التواصل مع مشرف. أخيرًا، اطلب من قارئ أن يشرح سؤالك بكلماته؛ فإذا تعذّر ذلك فبسّط الصياغة."
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "University of Edinburgh: writing a research proposal",
+        "url": "https://study.ed.ac.uk/postgraduate/applying/research-degrees/proposing-own-research/writing-proposal"
+      }
+    ],
+    "relatedPath": "/higher-education"
+  },
+  {
+    "slug": "project-plan",
+    "category": {
+      "en": "PROJECT PRACTICE",
+      "ar": "ممارسة المشاريع"
+    },
+    "title": {
+      "en": "A one-page project plan that people can actually use",
+      "ar": "خطة مشروع من صفحة واحدة يمكن للفريق استخدامها"
+    },
+    "intro": {
+      "en": "A useful plan makes the next decision easier. For a small launch or media project, begin with a shared definition of the result before building a detailed schedule.",
+      "ar": "الخطة المفيدة تجعل القرار التالي أسهل. في إطلاق صغير أو مشروع إعلامي، ابدأ بتعريف مشترك للنتيجة قبل بناء جدول مفصّل."
+    },
+    "sections": [
+      {
+        "heading": {
+          "en": "Define what done looks like",
+          "ar": "عرّف معنى اكتمال العمل"
+        },
+        "paragraphs": {
+          "en": [
+            "Write the intended result in concrete terms: a bilingual programme page approved and published by a named date, for example. List the deliverables and identify who accepts them. Keep activities separate from outcomes; “hold three meetings” says little about whether the project has succeeded. Add two or three acceptance checks so the team can recognise completion without a new debate."
+          ],
+          "ar": [
+            "اكتب النتيجة بصورة ملموسة: نشر صفحة برنامج ثنائية اللغة بعد اعتمادها في موعد محدد، مثلًا. سجّل التسليمات وحدد من يقبلها. افصل الأنشطة عن النتائج؛ فـ«عقد ثلاثة اجتماعات» لا يوضح نجاح المشروع. أضف معيارين أو ثلاثة للقبول حتى يتعرف الفريق إلى الاكتمال دون نقاش جديد."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "Make scope and ownership visible",
+          "ar": "أظهر النطاق والمسؤوليات"
+        },
+        "paragraphs": {
+          "en": [
+            "Name the work included in this phase and the work deferred to later. Assign one accountable owner to each deliverable, even if several people contribute. Identify the reviewer and the information they need. If a team is waiting on an expert biography or a course outline, show that dependency explicitly; hidden dependencies turn a neat timeline into a misleading promise."
+          ],
+          "ar": [
+            "حدّد ما يدخل في هذه المرحلة وما يؤجّل إلى لاحقًا. عيّن مسؤولًا واضحًا عن كل تسليم ولو ساهم فيه أشخاص عدة، وحدد المراجع والمعلومات التي يحتاجها. إذا كان الفريق ينتظر نبذة خبير أو مخطط دورة فأظهر هذا الاعتماد؛ فالاعتمادات المخفية تحول الجدول المرتب إلى وعد غير واقعي."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "Plan milestones around decisions",
+          "ar": "خطّط المراحل حول القرارات"
+        },
+        "paragraphs": {
+          "en": [
+            "Use a few milestones such as brief agreed, first draft reviewed, production approved and launch checked. Give each a date and a decision owner. Keep a small risk register with the risk, an early warning sign and the response. For a programme campaign, late changes to fees or start dates might require a final information check before publication."
+          ],
+          "ar": [
+            "استخدم مراحل قليلة مثل اعتماد الموجز ومراجعة المسودة واعتماد الإنتاج وفحص الإطلاق. ضع لكل مرحلة موعدًا ومسؤول قرار. احتفظ بسجل مخاطر صغير يذكر الخطر وإشارة الإنذار والاستجابة. وفي حملة برنامج قد تتطلب تغييرات الرسوم أو المواعيد مراجعة نهائية للمعلومات قبل النشر."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "Use the plan in a weekly conversation",
+          "ar": "استخدم الخطة في مراجعة أسبوعية"
+        },
+        "paragraphs": {
+          "en": [
+            "Review three things: what changed, what is blocked and which decision is needed next. Update the plan while the team is present. At completion, compare the delivered result with the original checks and capture one improvement for next time. The value of the page comes from maintaining a shared understanding, not from making the document look elaborate."
+          ],
+          "ar": [
+            "راجع ثلاثة أمور: ما الذي تغير، وما المتعثر، وما القرار التالي المطلوب. حدّث الخطة بحضور الفريق. عند الاكتمال قارن النتيجة بمعايير القبول وسجّل تحسينًا واحدًا للمرة القادمة. تأتي قيمة الصفحة من الحفاظ على فهم مشترك، لا من جعل الوثيقة معقدة."
+          ]
+        }
+      }
+    ],
+    "sources": [],
+    "relatedPath": "/programmes/project-management"
+  },
+  {
+    "slug": "content-brief",
+    "category": {
+      "en": "MEDIA & COMMUNICATION",
+      "ar": "الإعلام والاتصال"
+    },
+    "title": {
+      "en": "Write a programme brief before producing the campaign",
+      "ar": "اكتب موجز البرنامج قبل إنتاج الحملة"
+    },
+    "intro": {
+      "en": "A good brief connects academic substance with a clear audience decision. It gives writers, designers and producers the same starting point without prescribing every creative detail.",
+      "ar": "يربط الموجز الجيد المضمون الأكاديمي بقرار واضح للجمهور، ويمنح الكتّاب والمصممين والمنتجين نقطة بداية مشتركة دون فرض كل التفاصيل الإبداعية."
+    },
+    "sections": [
+      {
+        "heading": {
+          "en": "Choose one audience and one action",
+          "ar": "اختر جمهورًا وفعلًا واحدًا"
+        },
+        "paragraphs": {
+          "en": [
+            "Describe a real audience situation: a working professional comparing part-time study, for example, rather than “everyone interested in education”. Identify the decision they are ready to make now. A new audience may need an explanation or a guide before being ready to enquire. Set one primary action for each piece of content so the message does not compete with itself."
+          ],
+          "ar": [
+            "صِف وضعًا حقيقيًا للجمهور: مهني يقارن دراسة جزئية، مثلًا، بدل «كل المهتمين بالتعليم». حدّد القرار الذي يستعد لاتخاذه الآن. قد يحتاج الجمهور الجديد إلى شرح أو دليل قبل الاستفسار. اجعل لكل مادة فعلًا رئيسيًا واحدًا حتى لا تتنافس الرسالة مع نفسها."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "Separate the promise from the proof",
+          "ar": "ميّز الوعد من الدليل"
+        },
+        "paragraphs": {
+          "en": [
+            "Write the main benefit in plain language, then list the evidence that supports it: curriculum, teaching approach, assessment, project work or a verified instructor background. Check every factual claim with the programme owner. Avoid treating a recognised institutional name as evidence for an unrelated outcome. If the creative idea depends on a claim you cannot substantiate, revise the idea before production."
+          ],
+          "ar": [
+            "اكتب الفائدة الأساسية بلغة واضحة ثم اسرد أدلتها: المنهج وطريقة التدريس والتقييم والمشاريع أو خلفية مدرس موثقة. راجع كل معلومة مع صاحب البرنامج. لا تجعل اسم المؤسسة دليلًا على نتيجة لا ترتبط به. وإذا كانت الفكرة الإبداعية تعتمد على ادعاء غير موثّق فعدّلها قبل الإنتاج."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "Give the production team useful constraints",
+          "ar": "امنح فريق الإنتاج قيودًا مفيدة"
+        },
+        "paragraphs": {
+          "en": [
+            "Specify the channels, formats, languages, delivery dates and approval owner. Include the essential practical details learners will ask about. For video, identify available speakers, locations and the material needed to show the learning rather than only describe it. A concise interview outline with a clear editorial purpose often helps more than a script full of promotional adjectives."
+          ],
+          "ar": [
+            "حدّد القنوات والصيغ واللغات ومواعيد التسليم ومسؤول الاعتماد، وأضف المعلومات العملية التي سيسأل عنها المتعلمون. في الفيديو، حدّد المتحدثين والمواقع والمواد اللازمة لإظهار التعلم لا وصفه فقط. وقد يفيد مخطط مقابلة موجز ذو غاية تحريرية واضحة أكثر من نص مليء بالصفات الترويجية."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "en": "Agree how you will learn from the launch",
+          "ar": "اتفق على طريقة التعلم من الإطلاق"
+        },
+        "paragraphs": {
+          "en": [
+            "Choose a measure aligned with the intended action: useful enquiries, completed information requests or engagement with a detailed programme page. Review the questions people actually ask. Repeated confusion about eligibility or format is an editorial signal to improve the page. Keep a versioned brief so that later campaign pieces use the same facts and benefit from what the first release taught you."
+          ],
+          "ar": [
+            "اختر مؤشرًا مرتبطًا بالفعل المقصود: استفسارات مفيدة أو طلبات معلومات مكتملة أو تفاعل مع صفحة برنامج مفصّلة. راجع أسئلة الجمهور الفعلية؛ فتكرار الغموض بشأن شروط الالتحاق أو الشكل إشارة لتحسين الصفحة. احتفظ بنسخ مؤرخة من الموجز حتى تستخدم المواد اللاحقة الحقائق نفسها وتستفيد مما كشفه الإطلاق."
+          ]
+        }
+      }
+    ],
+    "sources": [],
+    "relatedPath": "/services"
+  }
+]

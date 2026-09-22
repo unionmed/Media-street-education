@@ -1,0 +1,9 @@
+packages:
+  - .
+nodeLinker: hoisted
+enableGlobalVirtualStore: false
+saveExact: true
+strictPeerDependencies: true
+allowBuilds:
+  sharp: true
+  unrs-resolver: true
