@@ -2,10 +2,12 @@ import Link from 'next/link';
 import { categories, route } from '@/lib/content';
 import type { Locale, Programme } from '@/lib/types';
 import { Arrow } from './ui';
+import { ProgrammeArtwork } from './programme-artwork';
 
 export function ProgrammeCard({ programme: p, locale }: { programme: Programme; locale: Locale }) {
   return (
     <article className="programme-card group">
+      <ProgrammeArtwork category={p.category} />
       <div className="flex items-center justify-between gap-4">
         <span className="category-label">{categories[p.category][locale]}</span>
         <Arrow className="text-gold-dark transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />

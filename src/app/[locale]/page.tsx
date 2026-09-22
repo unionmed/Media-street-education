@@ -8,7 +8,7 @@ export async function generateMetadata({ params }: Props) {
   const { locale } = await params;
   return pageMetadata(
     locale,
-    text(locale, 'A clear direction. A meaningful next step.', 'اتجاه واضح. خطوة لها معنى.'),
+    text(locale, 'Your next chapter starts here. | Merit Way', 'فصلك القادم يبدأ هنا. | ميريت واي'),
     text(
       locale,
       'Selected learning, informed guidance and media that brings programmes to life.',

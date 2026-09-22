@@ -36,7 +36,7 @@ pnpm preview       # serve the export on http://127.0.0.1:4173
 | `tests`            | Content/configuration and browser regression checks         |
 | `docs`             | Migration plan, dependency decisions and verification notes |
 
-The library contains 15 programmes and eight full guides in both languages. Team order, learning, higher education and media services are preserved. Programme cards and article content are server rendered; only navigation and catalogue filtering need client state.
+The library contains 15 programmes and eight full guides in both languages. Team order, learning, higher education and media services are preserved. Programme cards and article content are server rendered; navigation, catalogue filtering and the interactive orbital hero use client state. Scroll reveals progressively enhance the server-rendered content.
 
 ## Hosting configuration
 

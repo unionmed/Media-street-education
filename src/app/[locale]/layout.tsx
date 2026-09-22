@@ -7,6 +7,8 @@ import { isLocale, text } from '@/lib/content';
 import { locales } from '@/lib/types';
 import { publicPath } from '@/lib/site';
 import '../globals.css';
+import '../redesign.css';
+import { PageMotion } from '@/components/page-motion';
 
 export const dynamicParams = false;
 export function generateStaticParams() {
@@ -16,7 +18,7 @@ export const metadata: Metadata = {
   title: { default: 'Merit Way', template: '%s | Merit Way' },
   icons: { icon: publicPath('images/favicon.svg') },
 };
-export const viewport: Viewport = { width: 'device-width', initialScale: 1, themeColor: '#182b2a' };
+export const viewport: Viewport = { width: 'device-width', initialScale: 1, themeColor: '#101c26' };
 
 export default async function LocaleLayout({
   children,
@@ -38,6 +40,7 @@ export default async function LocaleLayout({
           {children}
         </main>
         <Footer locale={locale} />
+        <PageMotion />
       </body>
     </html>
   );

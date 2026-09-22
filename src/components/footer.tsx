@@ -7,6 +7,9 @@ import { ButtonLink, Eyebrow } from './ui';
 export function ContactBand({ locale }: { locale: Locale }) {
   return (
     <section className="contact-band">
+      <span className="contact-watermark" aria-hidden="true">
+        ↗
+      </span>
       <div className="container-shell contact-band-inner">
         <div>
           <Eyebrow>{text(locale, 'A CONVERSATION IS A GOOD START', 'المحادثة بداية جيدة')}</Eyebrow>

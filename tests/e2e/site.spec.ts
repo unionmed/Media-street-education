@@ -1,6 +1,35 @@
 import { test, expect } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
 
+test('hero pathways and animation controls work', async ({ page }) => {
+  await page.goto('en/');
+  const scene = page.locator('.orbit-experience');
+  await scene.getByRole('button', { name: 'Go further' }).click();
+  await expect(scene.getByRole('button', { name: 'Go further' })).toHaveAttribute(
+    'aria-pressed',
+    'true',
+  );
+  await expect(scene.getByRole('link', { name: 'Explore: Go further' })).toHaveAttribute(
+    'href',
+    /\/en\/higher-education\/$/,
+  );
+  await expect(scene).toContainText('Make room for a bigger ambition.');
+  await scene.getByRole('button', { name: 'Pause animation' }).click();
+  await expect(scene).toHaveAttribute('data-paused', 'true');
+  await expect(scene.locator('.orbit-sculpture')).toHaveCSS('animation-play-state', 'paused');
+  await scene.getByRole('button', { name: 'Resume animation' }).click();
+  await expect(scene).toHaveAttribute('data-paused', 'false');
+});
+
+test('reduced motion keeps the hero static and content available', async ({ page }) => {
+  await page.emulateMedia({ reducedMotion: 'reduce' });
+  await page.goto('ar/');
+  await expect(page.locator('.orbit-sculpture')).toHaveCSS('animation-name', 'none');
+  await expect(page.locator('.motion-control')).toBeHidden();
+  await expect(page.locator('h1')).toBeVisible();
+  await expect(page.locator('.pathway-panel')).toHaveCount(3);
+});
+
 test('programme search, combined filters, empty state and reset', async ({ page }) => {
   await page.goto('en/programmes/');
   const cards = page.locator('.programme-card');
@@ -49,6 +78,14 @@ for (const route of ['en/', 'ar/', 'en/programmes/', 'ar/guides/certificate/', '
     page.on('pageerror', (error) => errors.push(error.message));
     await page.goto(route);
     await page.evaluate(() => document.fonts.ready);
+    await page.evaluate(() =>
+      Promise.all(
+        document
+          .getAnimations()
+          .filter((animation) => animation.effect?.getComputedTiming().iterations !== Infinity)
+          .map((animation) => animation.finished.catch(() => {})),
+      ),
+    );
     const result = await new AxeBuilder({ page })
       .withTags(['wcag2a', 'wcag2aa', 'wcag21aa'])
       .analyze();
@@ -70,6 +107,9 @@ test('old URLs lead to their replacement pages', async ({ page }) => {
 test('content and navigation work without JavaScript', async ({ browser, baseURL }) => {
   const context = await browser.newContext({ javaScriptEnabled: false, baseURL });
   const page = await context.newPage();
+  await page.goto('en/');
+  await expect(page.locator('.orbit-sculpture')).toHaveCSS('animation-name', 'none');
+  await expect(page.locator('.motion-control')).toBeHidden();
   await page.goto('en/programmes/');
   await expect(page.locator('.programme-card')).toHaveCount(15);
   await page.locator('.programme-card').first().getByRole('link').first().click();
